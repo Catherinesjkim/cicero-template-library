@@ -1,0 +1,19 @@
+{
+    "name": "uc-davis-standard-licensing-contract",
+    "version": "0.0.0",
+    "description": "UC Davis Standard Licensing Contract",
+    "author": "catherine-kim",
+    "accordproject": {
+        "template": "contract",
+        "cicero": "^0.20.10",
+        "runtime": "ergo"
+    },
+    "devDependencies": {
+        "cucumber": "^5.1.0",
+        "chai": "4.2.0",
+        "@accordproject/cicero-cli": "^0.20.10"
+    },
+    "scripts": {
+        "test": "cucumber-js test -r .cucumber.js"
+    }
+}
