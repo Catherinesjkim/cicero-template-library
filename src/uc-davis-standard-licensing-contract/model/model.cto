@@ -1,22 +1,105 @@
+/* All of the variables referenced in your template grammar must exist in your template model */
 namespace org.accordproject.ucDavisStandardLicensingK
 
 import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
 import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+import org.accordproject.time.* from https://models.accordproject.org/v2.0/time.cto
 
-transaction MyRequest extends Request {
-  o String input
+import org.accordproject.money.MonetaryAmount from https://models.accordproject.org/money.cto
+import org.accordproject.organization.Organization from https://models.accordproject.org/organization.cto
+
+/* transaction req type: include all the data I expect to receive from the outside world --> business logic
+Requesting a payment */
+transaction PaymentRequest extends Request {
+  o Double subLicensingRevenue
+  o Double netSaleRevenue
+  o Double licenseIssueFeeRevenue
+  o Double licenseMFeeRevenue
+  o Double earnedRoyaltyRevenue
+  o Double minimumAnnualRevenue
+  o DateTime permissionGrantedBy optional
 }
 
-transaction MyResponse extends Response {
-  o String output
+/* tx res type: include all the data that the business logic for my template will compute and would like to return to the caller
+PayOut response */
+transaction PayOut extends Response {
+  o MonetaryAmount amount
+  o Double totalAmount
+  o DateTime dueBy
 }
 
-/**
- * The model for the contract
- */
-asset MyContract extends AccordContract {
-  /**
-   * The name for the contract
-   */
-  o String name
+/* The template model */
+asset UCDavisStandardLicensingK extends AccordContract {
+  /* The effective date */
+  o DateTime effectiveDate
+
+  /* licensee */
+  o AccordParty licensee // Party to the contract (licensee)
+  o String licenseeState 
+  o String licenseeEntityType
+  o String licenseeAddress
+  o String licenseeESig
+  o String licenseeName
+  o String licenseeTitle
+
+  /* licensor */ 
+  o AccordParty licensor // Party to the contract (licensor)
+  // o String licensorState
+  // o String licensorEntityType
+  // o String licensorAddress
+  o String licensorESig
+
+  /* territory where license is granted */
+  o String territory
+
+  /* descriptions */
+  o String licenseFOUDescription
+  o String milestonesDescription
+
+/* royalty duration */
+  o Duration royaltyDuration // Length of time resulting in royalty
+  o String royaltyText 
+  o Double royaltyRate // Royalty percentage
+
+  /* earned royalty duration */
+  o Duration earnedRoyaltyDuration // Length of time resulting in royalty
+  o String earnedRoyaltyText 
+  o Double earnedRoyaltyRate // Earned royalty percentage
+
+  /* minimumAnnualRoyalty duration*/
+  o Duration minimumAnnualRoyaltyDuration
+  o String minimumAnnualRoyaltyText
+  o Double minimumAnnualRoyaltyRate
+
+  /* subLicensingRevenue duration */
+  o Duration sublicensingRevDuration
+  o String sublicensingRoyaltyText
+  o Double sublicensingRoyaltyRate
+
+  /* netSaleRevenue duration */
+  o Duration netSaleRevDuration // Length of time resulting in payment
+  o String earnedRoyaltyText
+  o Double earnedRoyaltyRate // Net sale percentage
+  o DateTime reportDate
+
+  /* license issue fee duration */
+  o Duration licenseIssueFeeDuration
+  o String licenseIssueFeeText
+  o Double licenseIssueFeeRate
+
+  /* license maintenance fee duration */
+  o Duration licenseMFeeDuration
+  o String licenseMFeeText
+  o Double licenseMFeeRate
+
+  /* payment */
+  o PaymentClause paymentClause
+  o Duration paymentPeriod
+  o Duration paymentPeriodWithPermission
+}
+
+asset PaymentClause extends AccordClause {
+  o String amountText
+      o MonetaryAmount amount
+      o String paymentProcedure 
 }

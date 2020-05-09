@@ -20,16 +20,8 @@ Now, therefore, the Parties agree as follows:
 
 1. DEFINITIONS
 
-1.1 “Affiliate” of Licensee (or of a Sublicensee, respectively) means any entity that, as of the
-applicable point in time during the term of this Agreement, directly or indirectly Controls Licensee
-(or a Sublicensee, respectively), is Controlled by Licensee (or a Sublicensee, respectively), or is
-under common Control with Licensee (or a Sublicensee, respectively). “Control” means (a)
-having the actual, present capacity to elect a majority of the directors of such entity, (b) having
-the power to direct at least fifty percent (50%) of the voting rights entitled to elect directors of such
-entity, or (c) in any country where the local law will not permit foreign equity participation of a
-majority of the outstanding stock or voting rights of such entity, the ownership or control, directly
-or indirectly, of the maximum percentage of such outstanding stock or voting rights permitted by
-local law.
+1.1 “Affiliate” of Licensee (or of a Sublicensee, respectively) means any entity that, as of the applicable point in time during the term of this Agreement, directly or indirectly Controls Licensee (or a Sublicensee, respectively), is Controlled by Licensee (or a Sublicensee, respectively), or is under common Control with Licensee (or a Sublicensee, respectively). “Control” means (a) having the actual, present capacity to elect a majority of the directors of such entity, (b) having the power to direct at least fifty percent (50%) of the voting rights entitled to elect directors of such
+entity, or (c) in any country where the local law will not permit foreign equity participation of a majority of the outstanding stock or voting rights of such entity, the ownership or control, directly or indirectly, of the maximum percentage of such outstanding stock or voting rights permitted by local law.
 
 1.2 “Licensed Field of Use” means use in spinal fusion by local administration, Osteoporosis, and long bones/extremities (trauma), and excludes use in cartilage and all other indications.
 
@@ -109,31 +101,17 @@ set forth in this Agreement;
 (e) a provision imposing on the Sublicensee the same obligation of indemnification which
 Licensee has under Article 18 (Indemnification).
 
-3.2 Licensee will pay to The Regents twenty-five percent (25%) of any cash consideration, and of the
-cash equivalent of all other consideration, which is due to Licensee for the grant of rights under a
-Sublicense, excluding payments due to Licensee as a royalty based on Sales by the Sublicensee.
-Payment owed to The Regents under this Paragraph 3.2 is in addition to payments owed by
-Licensee to The Regents as Earned Royalties under Paragraph 5.1 below based on Sales by the
-Sublicensee.
+3.2 Licensee will pay to The Regents twenty-five percent (25%) of any cash consideration, and of the cash equivalent of all other consideration, which is due to Licensee for the grant of rights under a Sublicense, excluding payments due to Licensee as a royalty based on Sales by the Sublicensee. Payment owed to The Regents under this Paragraph 3.2 is in addition to payments owed by Licensee to The Regents as Earned Royalties under Paragraph 5.1 below based on Sales by the Sublicensee.
 
-3.3 Within thirty (30) days of execution of each Sublicense Agreement, or amendment thereof,
-Licensee will inform The Regents of such executed Sublicense Agreement or amendment, and
-Licensee will furnish to The Regents a copy of such Sublicense Agreement or amendment.
+3.3 Within thirty (30) days of execution of each Sublicense Agreement, or amendment thereof, Licensee will inform The Regents of such executed Sublicense Agreement or amendment, and Licensee will furnish to The Regents a copy of such Sublicense Agreement or amendment.
 
-3.4 Affiliates of Licensee and Affiliates of Sublicensees will have no licenses under Patent Rights
-except as granted by Licensee in a Sublicense pursuant to this Agreement.
+3.4 Affiliates of Licensee and Affiliates of Sublicensees will have no licenses under Patent Rights except as granted by Licensee in a Sublicense pursuant to this Agreement.
 
-3.5 For the purposes of this Agreement, the operations of Sublicensees under their respective
-Sublicense Agreements will be deemed to be the operations of Licensee, for which Licensee will be responsible. 
+3.5 For the purposes of this Agreement, the operations of Sublicensees under their respective Sublicense Agreements will be deemed to be the operations of Licensee, for which Licensee will be responsible. 
 
-3.6 Licensee will collect and guarantee payment of all monies and other consideration due The
-Regents under this Agreement from Sublicensees.
+3.6 Licensee will collect and guarantee payment of all monies and other consideration due The Regents under this Agreement from Sublicensees.
 
-3.7 Upon termination of this Agreement for any reason, at The Regents' discretion, all Sublicenses
-that are granted by Licensee pursuant to this Agreement, where the Sublicensee is in compliance
-with its Sublicense Agreement as of the date of such termination, will remain in effect and will be
-assigned to The Regents, except that The Regents will not be bound to perform any obligations
-set forth in any Sublicenses that extend beyond the obligations of The Regents set forth in this
+3.7 Upon termination of this Agreement for any reason, at The Regents' discretion, all Sublicenses that are granted by Licensee pursuant to this Agreement, where the Sublicensee is in compliance with its Sublicense Agreement as of the date of such termination, will remain in effect and will be assigned to The Regents, except that The Regents will not be bound to perform any obligations set forth in any Sublicenses that extend beyond the obligations of The Regents set forth in this
 Agreement.
 
 4. LICENSE ISSUE FEE/MAINTENANCE FEES
@@ -150,10 +128,7 @@ the first Sale of Licensed Products or Licensed Services takes place.
 
 5.1 Licensee will pay to The Regents earned royalties (“Earned Royalties”) at the rate of thirty percent (30%) of the Net Sales of all Licensed Products and Licensed Services.
 
-5.2 Earned Royalties accruing to The Regents will be paid to The Regents, to be accompanied by the
-corresponding royalty report as required in Paragraph 7.4, quarterly within sixty (60) days after
-the end of each calendar quarter as follows: May 31 (for first quarter), August 31 (for second
-quarter), November 30 (for third quarter), and February 28 (for fourth quarter).
+5.2 Earned Royalties accruing to The Regents will be paid to The Regents, to be accompanied by the corresponding royalty report as required in Paragraph 7.4, quarterly within sixty (60) days after the end of each calendar quarter as follows: May 31 (for first quarter), August 31 (for second quarter), November 30 (for third quarter), and February 28 (for fourth quarter).
 
 5.3 Beginning in the calendar year immediately following the calendar year in which the first Sale of Licensed Products or Licensed Services takes place, and in each calendar year thereafter, Licensee will pay to The Regents a minimum annual royalty (“Minimum Annual Royalty”) of fifty Thousand dollars ($50,000.00) for the life of this Agreement. The Minimum Annual Royalty will be paid to The Regents by February 28 of each year and will be credited against the Earned Royalties due and owing for the calendar year for which the Minimum Annual Royalty is made.
 
@@ -201,7 +176,7 @@ With respect to a non-pegylated Licensed Product or Licensed Method covered by t
  	 	 
  	6.2m	File an IND with the FDA with respect to a Licensed Product by December 31, 2023.
 
-       6.2n	Dose a first patient with a Licensed Product in a Phase I/IIa Clinical Trial by December 31, 2024.
+	6.2n	Dose a first patient with a Licensed Product in a Phase I/IIa Clinical Trial by December 31, 2024.
  	 	 
  	6.2o	Dose a first patient with a Licensed Product in a Phase IIb Clinical Trial by December 31, 2025.
  	 	 
@@ -211,60 +186,33 @@ With respect to a non-pegylated Licensed Product or Licensed Method covered by t
  	 	 
  	6.2r	Achieve a First Commercial Sale for at least one Licensed Product has been achieved by December 31, 2031.
 
-6.3 If Licensee is unable to meet any of its diligence obligations set forth in Paragraphs 6.1 and 6.2, then The Regents will so notify Licensee of failure to perform. Licensee will have the right and
-option to extend the target date of any such diligence obligation for a period of six (6) months
-upon the payment of Five Thousand dollars ($5,000) within the thirty (30)-day period prior to the
-date to be extended, for each such extension option exercised by Licensee. Licensee may
-further extend the target date of any diligence obligation for an additional six (6) months upon
-payment of an additional Five Thousand dollars ($5,000). Additional extensions may be granted
-only by written agreement of the Parties. These payments are in addition to any other payments
-owed under this Agreement. Should Licensee opt not to extend the obligation or fail to meet the
-obligation by the extended target date, then The Regents will have the right and option either to
-terminate this Agreement or to reduce Licensee's exclusive license to a non-exclusive license.
-This right, if exercised by The Regents, supersedes the rights granted in Article 2 (Grant).
+6.3 If Licensee is unable to meet any of its diligence obligations set forth in Paragraphs 6.1 and 6.2, then The Regents will so notify Licensee of failure to perform. Licensee will have the right and option to extend the target date of any such diligence obligation for a period of six (6) months upon the payment of Five Thousand dollars ($5,000) within the thirty (30)-day period prior to the date to be extended, for each such extension option exercised by Licensee. Licensee may further extend the target date of any diligence obligation for an additional six (6) months upon payment of an additional Five Thousand dollars ($5,000). Additional extensions may be granted only by written agreement of the Parties. These payments are in addition to any other payments owed under this Agreement. Should Licensee opt not to extend the obligation or fail to meet the
+obligation by the extended target date, then The Regents will have the right and option either to terminate this Agreement or to reduce Licensee's exclusive license to a non-exclusive license. This right, if exercised by The Regents, supersedes the rights granted in Article 2 (Grant).
 
-6.4 To exercise either the right to terminate this Agreement or to reduce the license to a nonexclusive license for lack of diligence under Paragraph 6.1 or 6.2, The Regents will give Licensee
-written notice of the deficiency. Licensee thereafter will have sixty (60) days to cure the
-deficiency. If The Regents has not received satisfactory written evidence that the deficiency has
-been cured by the end of the sixty (60)-day period, then The Regents may, at its option, either
-terminate the Agreement or reduce Licensee's exclusive license to a non-exclusive license by
-giving written notice to Licensee. These notices will be subject to Article 22 (Notices).
+6.4 To exercise either the right to terminate this Agreement or to reduce the license to a nonexclusive license for lack of diligence under Paragraph 6.1 or 6.2, The Regents will give Licensee written notice of the deficiency. Licensee thereafter will have sixty (60) days to cure the deficiency. If The Regents has not received satisfactory written evidence that the deficiency has been cured by the end of the sixty (60)-day period, then The Regents may, at its option, either terminate the Agreement or reduce Licensee's exclusive license to a non-exclusive license by giving written notice to Licensee. These notices will be subject to Article 22 (Notices).
 
 7.PROGRESS AND ROYALTY REPORTS
 
-7.1 For the six (6)-month period beginning April 30, 2016, within sixty (60) days of each
-June 30 and December 31 following the end of such six (6)-month period, Licensee will submit to The Regents a semi-annual progress report covering Licensee's activities related to the
-development and testing of Licensed Products, Licensed Services, and Licensed Methods,
-including the obtaining of necessary governmental approvals, if any, for marketing in the United
-States. These progress reports will be made until the first Sale occurs in the United States.
+7.1 For the six (6)-month period beginning April 30, 2016, within sixty (60) days of each June 30 and December 31 following the end of such six (6)-month period, Licensee will submit to The Regents a semi-annual progress report covering Licensee's activities related to the development and testing of Licensed Products, Licensed Services, and Licensed Methods, including the obtaining of necessary governmental approvals, if any, for marketing in the United States. These progress reports will be made until the first Sale occurs in the United States.
 
-7.2 Each progress report will be a sufficiently detailed summary of activities of Licensee and any
-Sublicensees so that The Regents may evaluate and determine Licensee’s progress in the
-development of Licensed Products, Licensed Services, and Licensed Methods, and in meeting
-Licensee’s diligence obligations under Article 6, and will include (but not be limited to) the
-following: (a) summary of work completed and in progress; (b) current schedule of anticipated
-events and milestones, including diligence milestones under Paragraph 6.2; (c) anticipated market introduction dates for the Licensed Territory; and (d) Sublicensees’ activities during the
-reporting period.
+7.2 Each progress report will be a sufficiently detailed summary of activities of Licensee and any Sublicensees so that The Regents may evaluate and determine Licensee’s progress in the development of Licensed Products, Licensed Services, and Licensed Methods, and in meeting Licensee’s diligence obligations under Article 6, and will include (but not be limited to) the following: (a) summary of work completed and in progress; (b) current schedule of anticipated events and milestones, including diligence milestones under Paragraph 6.2; (c) anticipated market introduction dates for the Licensed Territory; and (d) Sublicensees’ activities during the reporting period.
 
-7.3 In Licensee’s progress report immediately subsequent to the first Sale of a Licensed Product or a
-Licensed Service by Licensee or by a Sublicensee, Licensee will report the date of such first
-Sale.
+7.3 In Licensee’s progress report immediately subsequent to the first Sale of a Licensed Product or a Licensed Service by Licensee or by a Sublicensee, Licensee will report the date of such first Sale.
 
 7.4 After the first Sale of a Licensed Product or a Licensed Service, Licensee will make quarterly
 royalty reports to The Regents, to be accompanied by the corresponding Earned Royalty
 payment as required in Paragraph 5.2, within sixty (60) days after the quarters ending March 31,
 June 30, September 30, and December 31, of each year. Each such royalty report will include at
 least the following:
-       (a) the volume of Licensed Products and Licensed Services Sold;
-       (b) gross revenue from Sale of Licensed Products and Licensed Services;
-       (c) Net Sales pursuant to Paragraph 1.7, and the calculation of Net Sales, including all
-       deductions taken, so that The Regents can confirm the calculation;
-       (d) total Earned Royalties due The Regents; and
-       (e) names and addresses of Sublicensees for any new Sublicenses entered into during the
-       reporting quarter.
+	(a) the volume of Licensed Products and Licensed Services Sold;
+	(b) gross revenue from Sale of Licensed Products and Licensed Services;
+	(c) Net Sales pursuant to Paragraph 1.7, and the calculation of Net Sales, including all
+	deductions taken, so that The Regents can confirm the calculation;
+	(d) total Earned Royalties due The Regents; and
+	(e) names and addresses of Sublicensees for any new Sublicenses entered into during the
+	reporting quarter.
 
-7.5 If no Sales of Licensed Products or Licensed Services have occurred during the report period, the
-royalty report will contain a statement to this effect.
+7.5 If no Sales of Licensed Products or Licensed Services have occurred during the report period, the royalty report will contain a statement to this effect.
 
 8.BOOKS AND RECORDS
 
@@ -277,20 +225,15 @@ compliance in other respects with this Agreement. Such representatives will be r
 all information in confidence except as necessary to communicate Licensee's non-compliance
 with this Agreement to The Regents.
 
-8.2 The fees and expenses of The Regents' representatives performing such an examination will be
-borne by The Regents, provided that if an error in underpaid royalties to The Regents of more
-than five percent (5%) of the total Earned Royalties due for any year is discovered, then the fees
-and expenses of these representatives in conducting such examination will be borne by Licensee.
+8.2 The fees and expenses of The Regents' representatives performing such an examination will be borne by The Regents, provided that if an error in underpaid royalties to The Regents of more than five percent (5%) of the total Earned Royalties due for any year is discovered, then the fees and expenses of these representatives in conducting such examination will be borne by Licensee.
 
 9.LIFE OF THE AGREEMENT
 
-9.1 Unless otherwise terminated by operation of law or by acts of the Parties in accordance with the
-terms of this Agreement, this Agreement will be in effect from the Effective Date and will remain in
-effect for the life of the last-to-expire patent or last-to-be-abandoned patent application licensed
-under this Agreement, whichever is later.
+9.1 Unless otherwise terminated by operation of law or by acts of the Parties in accordance with the terms of this Agreement, this Agreement will be in effect from the Effective Date and will remain in effect for the life of the last-to-expire patent or last-to-be-abandoned patent application licensed under this Agreement, whichever is later.
 
 9.2 Any termination of this Agreement will not affect the rights and obligations set forth in the
 following:
+
 Article 1 Definitions
 Article 3 Sublicenses
 Paragraph 4.1 License Issue Fee
@@ -306,55 +249,34 @@ Article 25 Confidentiality
 Article 28 Applicable Law; Venue; Attorneys’ Fees
 Article 29 Scope of Agreement
 
-9.3 Any termination of this Agreement will not relieve Licensee of Licensee’s obligation to pay any
-payment due or owing at the time of such termination and will not relieve any obligations, owed
-by either Party to the other Party, established prior to termination.
+9.3 Any termination of this Agreement will not relieve Licensee of Licensee’s obligation to pay any payment due or owing at the time of such termination and will not relieve any obligations, owed by either Party to the other Party, established prior to termination.
 
 10.TERMINATION BY THE REGENTS
 
-10.1 If Licensee should violate or fail to perform any term of this Agreement, then The Regents may
-give written notice of such default (“Notice of Default”) to Licensee. If Licensee should fail to
-repair such default within sixty (60) days of the effective date of such notice, The Regents will
-have the right to terminate this Agreement and the licenses herein by a second written notice (“Notice of Termination”) to Licensee. If a Notice of Termination is sent to Licensee, this
-Agreement will automatically terminate on the effective date of such notice. Such termination will
-not relieve Licensee of Licensee’s obligation to pay any royalty or license fees owing at the time
-of such termination and will not impair any accrued rights of The Regents. These notices will be
+10.1 If Licensee should violate or fail to perform any term of this Agreement, then The Regents may give written notice of such default (“Notice of Default”) to Licensee. If Licensee should fail to repair such default within sixty (60) days of the effective date of such notice, The Regents will have the right to terminate this Agreement and the licenses herein by a second written notice (“Notice of Termination”) to Licensee. If a Notice of Termination is sent to Licensee, this Agreement will automatically terminate on the effective date of such notice. Such termination will not relieve Licensee of Licensee’s obligation to pay any royalty or license fees owing at the time of such termination and will not impair any accrued rights of The Regents. These notices will be
 subject to Article 22 (Notices).
 
-10.2 Notwithstanding Paragraph 10.1, this Agreement will terminate immediately, if Licensee files a
-claim including in any way the assertion that any portion of Patent Rights is invalid or
-unenforceable, where the filing of such claim is by Licensee, by a third party on behalf of
-Licensee, or by a third party at the urging of Licensee.
+10.2 Notwithstanding Paragraph 10.1, this Agreement will terminate immediately, if Licensee files a claim including in any way the assertion that any portion of Patent Rights is invalid or unenforceable, where the filing of such claim is by Licensee, by a third party on behalf of Licensee, or by a third party at the urging of Licensee.
 
-10.3 Notwithstanding Paragraph 10.1, this Agreement will terminate immediately in the event of the
-filing of a petition for relief under the United States Bankruptcy Code by or against Licensee as a
+10.3 Notwithstanding Paragraph 10.1, this Agreement will terminate immediately in the event of the filing of a petition for relief under the United States Bankruptcy Code by or against Licensee as a
 debtor or alleged debtor.
 
 11.TERMINATION BY LICENSEE
 
-11.1 Licensee will have the right at any time to terminate this Agreement in whole or as to any portion of Patent Rights by giving notice in writing to The Regents. Such notice of termination will be subject to Article 22 (Notices) and such termination of this Agreement in whole or in part will be
-effective ninety (90) days after the effective date of such notice of termination.
+11.1 Licensee will have the right at any time to terminate this Agreement in whole or as to any portion of Patent Rights by giving notice in writing to The Regents. Such notice of termination will be subject to Article 22 (Notices) and such termination of this Agreement in whole or in part will be effective ninety (90) days after the effective date of such notice of termination.
 
-11.2 Any termination pursuant to Paragraph 11.1 will not relieve Licensee of any obligation or liability accrued hereunder prior to such termination or rescind anything done by Licensee or any
-payments made to The Regents hereunder prior to the time such termination becomes effective,
-and such termination will not affect in any manner any rights of The Regents arising under this
-Agreement prior to such termination.
+11.2 Any termination pursuant to Paragraph 11.1 will not relieve Licensee of any obligation or liability accrued hereunder prior to such termination or rescind anything done by Licensee or any payments made to The Regents hereunder prior to the time such termination becomes effective, and such termination will not affect in any manner any rights of The Regents arising under this Agreement prior to such termination.
 
 12.DISPOSITION OF LICENSED PRODUCTS UPON TERMINATION
 
 12.1 Upon termination of this Agreement, for a period of one hundred and twenty (120) days after the
-date of termination, Licensee may complete the making of, and may Sell, any partially made
-Licensed Products, and Licensee may continue the practice of Licensed Methods only to the
-extent necessary to do the foregoing; provided that all such Sales will be subject to the terms of
-this Agreement including, but not limited to, the payment of royalties at tthe rate and at the time provided herein and the rendering of reports thereon. 
+date of termination, Licensee may complete the making of, and may Sell, any partially made Licensed Products, and Licensee may continue the practice of Licensed Methods only to the extent necessary to do the foregoing; provided that all such Sales will be subject to the terms of this Agreement including, but not limited to, the payment of royalties at tthe rate and at the time provided herein and the rendering of reports thereon. 
 
 13.PATENT PROSECUTION AND MAINTENANCE 
 
-13.1 The Regents will prosecute and maintain the patent applications and patents under Patent 
-Rights, subject to Licensee’s reimbursement of The Regents’ out-of-pocket costs under Paragraph 13.3. All patent applications and patents under Patent Rights will be held in the name of The Regents. The Regents will have sole responsibility for retaining and instructing patent counsel. The Regents will promptly provide Licensee with copies of all official patent office correspondence, and Licensee agrees to keep this documentation confidential in accordance with Article 25 (Confidentiality). Licensee may comment upon such documentation, and The Regents will take such comments into account, provided that if Licensee has not commented upon such documentation in reasonable time for The Regents to sufficiently consider Licensee’s comments prior to the deadline for filing a response with the relevant government patent office, The Regents will be free to respond appropriately without consideration of Licensee's comments. 
+13.1 The Regents will prosecute and maintain the patent applications and patents under Patent Rights, subject to Licensee’s reimbursement of The Regents’ out-of-pocket costs under Paragraph 13.3. All patent applications and patents under Patent Rights will be held in the name of The Regents. The Regents will have sole responsibility for retaining and instructing patent counsel. The Regents will promptly provide Licensee with copies of all official patent office correspondence, and Licensee agrees to keep this documentation confidential in accordance with Article 25 (Confidentiality). Licensee may comment upon such documentation, and The Regents will take such comments into account, provided that if Licensee has not commented upon such documentation in reasonable time for The Regents to sufficiently consider Licensee’s comments prior to the deadline for filing a response with the relevant government patent office, The Regents will be free to respond appropriately without consideration of Licensee's comments. 
 
-13.2 The Regents will use reasonable efforts to prepare or amend any patent application within Patent 
-Rights to include claims reasonably requested by Licensee to protect the Licensed Products or Licensed Services contemplated to be Sold or Licensed Methods to be practiced under this Agreement.
+13.2 The Regents will use reasonable efforts to prepare or amend any patent application within Patent Rights to include claims reasonably requested by Licensee to protect the Licensed Products or Licensed Services contemplated to be Sold or Licensed Methods to be practiced under this Agreement.
 
 13.3 Subject to Paragraph 13.4, all past, present, and future costs for preparing, filing, prosecuting, 
 and maintaining all patent applications and patents under Patent Rights (including, without limitation, the cost of interferences, reexaminations, oppositions, post-grant review, inter partes review, supplemental examinations, and other patent office administrative proceedings, and their appeals), which have not been previously reimbursed to The Regents, will be paid by Licensee, so long as the licenses granted to Licensee herein are exclusive. Such payments by Licensee for such costs are due within thirty (30) days after receipt by Licensee of invoice from The Regents. If, however, The Regents reduces the exclusive licenses granted herein to non-exclusive licenses pursuant to Paragraph 6.3 or Paragraph 6.4, and The Regents grants one or more additional licenses, the subsequent costs of preparing, filing, prosecuting, and maintaining such patent applications and patents will be divided equally among the licensed parties from the effective date of each subsequently granted license agreement. 
@@ -390,8 +312,7 @@ enforceability, or scope of Patent Rights; (b) a warranty or representation that
 17.2 (a) If such infringing activity has not been abated within ninety (90) days following the effective date of the Infringement Notice, Licensee may initiate suit for patent infringement against the infringer. The Regents may voluntarily join as a party in such suit at The Regents’ expense, but The Regents may not thereafter separately initiate suit against the infringer for the acts of infringement that are the subject of Licensee’s suit or any judgment rendered in that suit. Licensee may not cause The Regents to be joined as a party in a suit initiated by Licensee without The Regents’ prior written consent. If, in a suit initiated by Licensee, The Regents is involuntarily caused to be joined as a party, Licensee will pay any costs incurred by The Regents arising out of such suit, including, but not limited to, any legal fees of counsel that The Regents selects and retains to represent it in the suit. 
 (b) If, within a hundred and twenty (120) days following the effective date of the Infringement Notice, the infringing activity has not been abated and if Licensee has not initiated suit against the infringer, The Regents may in its sole discretion initiate suit for patent infringement against the infringer. If The Regents initiates such suit, Licensee may not join such suit without The Regents’ consent, and Licensee may not thereafter separately initiate suit against the infringer for the acts of infringement that are the subject of The Regents’ suit or any judgment rendered in that suit. 
 
-17.3 Such suit initiated under Paragraph 17.2 will be at the expense of the initiating Party and all 
-recoveries recovered thereby will belong to such Party, provided that suits initiated jointly by The Regents and Licensee will be at the joint expense of the Parties and all recoveries will be allocated in the following order: (a) to each Party reimbursement for its attorneys' costs, fees, and other related out-of-pocket expenses, to the extent such Party paid for such costs, fees, and expenses until all such costs, fees, and expenses are consumed for such Party; and (b) any remaining amount shared jointly by the Parties in proportion to the share of expenses paid by each Party, but in no event will The Regents’ share be less than twenty-five percent (25%) of such remaining amount. The foregoing notwithstanding, if such suit is initiated by Licensee and The Regents is not a party, The Regents’ share of any recoveries will be twenty-five percent (25%) of the amount of such recoveries remaining after reimbursement to Licensee of Licensee’s attorneys’ costs, fees and other related out-of-pocket expenses. In any suit initiated by The Regents, any recovery will belong to The Regents. 
+17.3 Such suit initiated under Paragraph 17.2 will be at the expense of the initiating Party and all recoveries recovered thereby will belong to such Party, provided that suits initiated jointly by The Regents and Licensee will be at the joint expense of the Parties and all recoveries will be allocated in the following order: (a) to each Party reimbursement for its attorneys' costs, fees, and other related out-of-pocket expenses, to the extent such Party paid for such costs, fees, and expenses until all such costs, fees, and expenses are consumed for such Party; and (b) any remaining amount shared jointly by the Parties in proportion to the share of expenses paid by each Party, but in no event will The Regents’ share be less than twenty-five percent (25%) of such remaining amount. The foregoing notwithstanding, if such suit is initiated by Licensee and The Regents is not a party, The Regents’ share of any recoveries will be twenty-five percent (25%) of the amount of such recoveries remaining after reimbursement to Licensee of Licensee’s attorneys’ costs, fees and other related out-of-pocket expenses. In any suit initiated by The Regents, any recovery will belong to The Regents. 
 
 17.4 Each Party will cooperate with the other Party in litigation initiated hereunder but at the expense of the initiating Party. Such litigation will be controlled by the initiating Party bringing the action, except that The Regents may be represented by counsel of its choice in any suit initiated by Licensee. 
 
