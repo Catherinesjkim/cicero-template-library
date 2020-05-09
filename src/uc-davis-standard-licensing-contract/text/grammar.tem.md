@@ -2,7 +2,7 @@ This exclusive license agreement (“Agreement”) is effective {{effectiveDate}
 
 RECITALS
 
-Whereas, The Regents has an assignment of title to the invention entitled “{{invention}}” (the “Invention”), as described in The Regents' Case No. {{caseNumber}}, invented by {{inventor}}, Ph.D., employed by the University of California, Davis and to the patents and patent applications under Patent Rights as defined below, which are directed to the Invention;
+Whereas, The Regents has an assignment of title to the invention entitled “{{patentTitle1}}” (the “Invention”), as described in The Regents' Case No. {{caseNumber}}, invented by {{inventor}}, Ph.D., employed by the University of California, Davis and to the patents and patent applications under Patent Rights as defined below, which are directed to the Invention;
 
 Whereas, The Regents and Licensee entered into a Confidentiality Agreement (UC Agreement
 Control No. {{controlNumber}}) effective {{effectiveDate}} (“Confidentiality Agreement”), for the purpose of allowing Licensee to evaluate its interest in a license agreement covering the Invention;
@@ -137,7 +137,7 @@ Agreement.
 4. LICENSE ISSUE FEE/MAINTENANCE FEES
 
 4.1 Licensee will pay to The Regents a non-creditable, non-refundable license issue fee (“License
-Issue Fee”) of {{licenseIssueFee}} dollars (${{amount}}) due upon execution of this Agreement. The License Issue Fee is non-refundable and not an advance against royalties or other payments due under this Agreement.
+Issue Fee”) of {{amountText}} dollars (${{amount}}) due upon execution of this Agreement. The License Issue Fee is non-refundable and not an advance against royalties or other payments due under this Agreement.
 
 4.2 Licensee will pay to The Regents a license maintenance fee of {{amountText}} dollars
 (${{amount}}) by the one-year anniversary of the Effective Date and by each anniversary of the
@@ -167,7 +167,9 @@ quarter), November 30 (for third quarter), and February 28 (for fourth quarter).
 
 6.1 Licensee will diligently proceed with the development, manufacture, marketing, and Sale of Licensed Products and Licensed Services in quantities sufficient to meet the market demand.
 
-6.2 In addition to Licensee’s obligations under Paragraph 6.1, Licensee will accomplish the following milestones in Licensee’s activities under this Agreement: {{milestonesDescription}}.
+6.2 In addition to Licensee’s obligations under Paragraph 6.1, Licensee will accomplish the following milestones in Licensee’s activities under this Agreement: 
+
+{{milestonesDescription}}.
 
 6.3 If Licensee is unable to meet any of its diligence obligations set forth in Paragraphs 6.1 and 6.2, then The Regents will so notify Licensee of failure to perform. Licensee will have the right and
 option to extend the target date of any such diligence obligation for a period of six (6) months
@@ -365,8 +367,9 @@ Regents and its officers, employees, and agents; sponsors of the research that l
 performed hereunder and will obtain, keep in force, and maintain the following insurance: 
 (a) Commercial Form General Liability Insurance (contractual liability included) with limits as 
 follows: 
-Each Occurrence ................................................................................ ${{amount}} Products/Completed Operations Aggregate ........................................................ ${{amount}} 
-Personal and Advertising Injury ................................................................ ${{amount}} General Aggregate .............................................................................. ${{amount}} 
+
+Each Occurrence ...............................................................................${{amount}} Products/Completed Operations Aggregate .......................................................${{amount}} 
+Personal and Advertising Injury ...............................................................${{amount}} General Aggregate .............................................................................${{amount}} 
 
 If the above insurance is written on a claims-made form, it will continue for three (3) years following termination or expiration of this Agreement. The insurance will have a retroactive date of placement prior to or coinciding with the Effective Date of this Agreement; and 
 
@@ -417,7 +420,7 @@ Attn.: {{licensee}}
 
 Either Party may change its address upon written notice to the other Party.
 
-23. PAYMENTS
+23. {{#clause paymentClause}}PAYMENTS
 
 23.1 Payments to The Regents will be made by check or bank wire transfer, to the following address:
 
@@ -429,20 +432,16 @@ Attention: Chief Financial Officer
 Referencing: UC Case No. {{caseNumber}}
 
 Bank wire (Licensee is responsible for all wire transfer fees):
-Bank of America
-1655 Grant Street
-Concord, CA 94520
-Beneficiary Name: Regents of the University of California
-Domestic Wire ABA: 026009593
-Foreign Wire SWIFT: BOFAUS3N
-Referencing: UC Case No. {{caseNumber}}
+       Bank of America
+       1655 Grant Street
+       Concord, CA 94520
+       Beneficiary Name: Regents of the University of California
+       Domestic Wire ABA: 026009593
+       Foreign Wire SWIFT: BOFAUS3N
+       Referencing: UC Case No. {{caseNumber}}
 
 23.2 If monies owed to The Regents under this Agreement are not received by The Regents when
-due, Licensee will pay to The Regents interest charges at a rate of ten percent (10%) per annum.
-Such interest will be calculated from the date payment was due until actually received by The
-Regents. Such accrual of interest will be in addition to, and not in lieu of, enforcement of any
-other rights of The Regents related to such late payment. Acceptance of any late payment will
-not constitute a waiver under Article 24 (Waiver).
+due, Licensee will pay to The Regents interest charges at a rate of ten percent (10%) per annum. Such interest will be calculated from the date payment was due until actually received by The Regents. Such accrual of interest will be in addition to, and not in lieu of, enforcement of any other rights of The Regents related to such late payment. Acceptance of any late payment will not constitute a waiver under Article 24 (Waiver). {{paymentProcedure}}.{{/clause}}
 
 24. WAIVER
 
@@ -491,14 +490,14 @@ In witness whereof, the Parties have executed this Agreement in duplicate origin
 LICENSEE NAME
 By: {{licenseeESig}}
        Signature
-Name: {{licensee}}
+Name: {{licenseeName}}
 Title: {{licenseeTitle}}
-Date: {{effectiveDate}}
+Date: {{date}}
 
 THE REGENTS OF THE UNIVERSITY OF CALIFORNIA 
 By: {{licensorESig}}
        Signature
 Name: David R. McGee 
 Title: Executive Director UC Davis InnovationAccess 
-Date: {{effectiveDate}}
+Date: {{date}}
 

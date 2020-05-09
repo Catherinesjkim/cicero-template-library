@@ -1,13 +1,13 @@
-// replace variables with fictitional info
+## replace variables with fictitional info
 
-This exclusive license agreement (“Agreement”) is effective {{effectiveDate}} (“Effective Date”), by and between (a) The Regents of the University of California (“The Regents”), a California corporation, having its statewide administrative offices at 1111 Franklin Street, 12th Floor, Oakland, California 94607-5200, acting through UC Davis InnovationAccess, with an address at 1850 Research Park Drive, Suite 100, Davis, California 95618-6153 and (b) {{licensee}} (“Licensee”), a {{licenseeState}} {{licenseeEntityType}} having a principal place of business at {{licenseeAddress}}. The Regents and Licensee will be referred to herein, on occasion, individually as “Party” or collectively as “Parties”.
+This exclusive license agreement (“Agreement”) is effective March 15, 2006 (“Effective Date”), by and between (a) The Regents of the University of California (“The Regents”), a California corporation, having its statewide administrative offices at 1111 Franklin Street, 12th Floor, Oakland, California 94607-5200, acting through UC Davis InnovationAccess, with an address at 1850 Research Park Drive, Suite 100, Davis, California 95618-6153 and (b) BONE BIOLOGICS (“Licensee”), a Delaware corporation having a principal place of business at 2 Burlington Woods Drive, Suite 100, Burlington, Massachusetts, 01803. The Regents and Licensee will be referred to herein, on occasion, individually as “Party” or collectively as “Parties”.
 
 RECITALS
 
-Whereas, The Regents has an assignment of title to the invention entitled “{{invention}}” (the “Invention”), as described in The Regents' Case No. {{caseNumber}}, invented by {{inventor}}, Ph.D., employed by the University of California, Davis and to the patents and patent applications under Patent Rights as defined below, which are directed to the Invention;
+Whereas, The Regents has an assignment of title to the invention entitled “NELL-1 Enhanced Bone Mineralization” (the “Invention”), as described in The Regents' Case No. 1999-560-1, invented by Kang Ting, Ph.D., employed by the University of California, Davis and to the patents and patent applications under Patent Rights as defined below, which are directed to the Invention;
 
 Whereas, The Regents and Licensee entered into a Confidentiality Agreement (UC Agreement
-Control No. {{controlNumber}}) effective {{effectiveDate}} (“Confidentiality Agreement”), for the purpose of allowing Licensee to evaluate its interest in a license agreement covering the Invention;
+Control No. 2018-04-0073) effective March 15,2006 (“Confidentiality Agreement”), for the purpose of allowing Licensee to evaluate its interest in a license agreement covering the Invention;
 
 Whereas, Licensee has provided The Regents with a commercialization plan for the Invention in order to allow The Regents to evaluate Licensee’s capabilities;
 
@@ -31,7 +31,7 @@ majority of the outstanding stock or voting rights of such entity, the ownership
 or indirectly, of the maximum percentage of such outstanding stock or voting rights permitted by
 local law.
 
-1.2 “Licensed Field of Use” means {{restrictionDescriptions}}.
+1.2 “Licensed Field of Use” means use in spinal fusion by local administration, Osteoporosis, and long bones/extremities (trauma), and excludes use in cartilage and all other indications.
 
 1.3 “Licensed Method” means any process or method the use or practice of which, (a) but for the license granted pursuant to this Agreement, would infringe, or contribute to or induce the infringement of, a Valid Claim of any issued, unexpired patent under Patent Rights, or (b) is covered by a claim in a pending patent application under Patent Rights. As used in Subparagraph (b) of this Paragraph 1.3, “covered by a claim in a pending patent application” means that such use or practice would, but for the license granted pursuant to this Agreement, constitute infringement, contributory infringement, or inducement of infringement, of such claim if such claim were issued.
 
@@ -47,13 +47,13 @@ countries where Patent Rights exist.
 
 1.7 “Net Sales” means the gross invoice price charged by, and the value of non-cash consideration owed to, Licensee or a Sublicensee for Sales of Licensed Products and Licensed Services, less the sum of the following actual and customary deductions to the extent applicable: (a) cash, trade or quantity discounts; (b) sales, use, tariff, import or export duties, or other excise taxes, when included in Sales, but not value-added taxes assessed on (or income taxes derived from) such Sales; and (c) allowances or credits to customers because of rejections or returns. For purposes of calculating Net Sales, a Sale by Licensee to a Sublicensee for end use by the Sublicensee will be treated as a Sale at Licensee’s list price.
 
-1.8 “Patent Rights” means The Regents' rights in the claims of the following: {{lettersPatent}},
+1.8 “Patent Rights” means The Regents' rights in the claims of the following: 7,052,856,
 
-entitled “{{patentTitle1}},” and “{{patentTitle2}},”
+entitled “NELL-1 Enhanced Bone Mineralization,” and “NELL Peptide Expression Systems And Bone Formation Activity Of Nell Peptide,”
 
-filed on {{fileDate1}} and {{fileDate2}},
+filed on October 5, 1999 and March 9, 2009,
 
-respectively, by Drs. {{inventorName1}}, {{inventorName2}} and assigned to The Regents;
+respectively, by Drs. Kang Ting, Ben Wu and assigned to The Regents;
 
 continuing applications thereof, including divisions, substitutions, extensions and continuation-in-part applications (only to the extent, however, that claims in the continuation-in-part applications are entitled to the priority filing date of the applicable above-listed parent patent application); patents issuing on said applications or continuing applications; reissues of such patents; and corresponding foreign patents or applications of any of the foregoing.
 
@@ -139,23 +139,23 @@ Agreement.
 4. LICENSE ISSUE FEE/MAINTENANCE FEES
 
 4.1 Licensee will pay to The Regents a non-creditable, non-refundable license issue fee (“License
-Issue Fee”) of {{licenseIssueFee}} dollars (${{amount}}) due upon execution of this Agreement. The License Issue Fee is non-refundable and not an advance against royalties or other payments due under this Agreement.
+Issue Fee”) of Twenty Thousand One Hundred Dollars and Fifty Cents dollars ($20,100.50) due upon execution of this Agreement. The License Issue Fee is non-refundable and not an advance against royalties or other payments due under this Agreement.
 
-4.2 Licensee will pay to The Regents a license maintenance fee of {{amountText}} dollars
-(${{amount}}) by the one-year anniversary of the Effective Date and by each anniversary of the
+4.2 Licensee will pay to The Regents a license maintenance fee of Ten Thousand dollars
+($10,000.00) by the one-year anniversary of the Effective Date and by each anniversary of the
 Effective Date thereafter until the calendar year immediately following the calendar year in which
 the first Sale of Licensed Products or Licensed Services takes place.
 
 5. ROYALTIES
 
-5.1 Licensee will pay to The Regents earned royalties (“Earned Royalties”) at the rate of {{percentText}} percent ({{percent}}%) of the Net Sales of all Licensed Products and Licensed Services.
+5.1 Licensee will pay to The Regents earned royalties (“Earned Royalties”) at the rate of thirty percent (30%) of the Net Sales of all Licensed Products and Licensed Services.
 
 5.2 Earned Royalties accruing to The Regents will be paid to The Regents, to be accompanied by the
 corresponding royalty report as required in Paragraph 7.4, quarterly within sixty (60) days after
 the end of each calendar quarter as follows: May 31 (for first quarter), August 31 (for second
 quarter), November 30 (for third quarter), and February 28 (for fourth quarter).
 
-5.3 Beginning in the calendar year immediately following the calendar year in which the first Sale of Licensed Products or Licensed Services takes place, and in each calendar year thereafter, Licensee will pay to The Regents a minimum annual royalty (“Minimum Annual Royalty”) of {{amountText}} dollars (${{amount}}) for the life of this Agreement. The Minimum Annual Royalty will be paid to The Regents by February 28 of each year and will be credited against the Earned Royalties due and owing for the calendar year for which the Minimum Annual Royalty is made.
+5.3 Beginning in the calendar year immediately following the calendar year in which the first Sale of Licensed Products or Licensed Services takes place, and in each calendar year thereafter, Licensee will pay to The Regents a minimum annual royalty (“Minimum Annual Royalty”) of fifty Thousand dollars ($50,000.00) for the life of this Agreement. The Minimum Annual Royalty will be paid to The Regents by February 28 of each year and will be credited against the Earned Royalties due and owing for the calendar year for which the Minimum Annual Royalty is made.
 
 5.4 All payments due The Regents will be payable in United States dollars. When Licensed Products and Licensed Services are Sold for monies other than United States dollars, Earned Royalties will first be determined in the foreign currency of the country in which the Sale was made and then converted into equivalent United States dollars. The exchange rate will be that rate quoted in the Wall Street Journal on the last business day of the reporting period.
 
@@ -169,7 +169,47 @@ quarter), November 30 (for third quarter), and February 28 (for fourth quarter).
 
 6.1 Licensee will diligently proceed with the development, manufacture, marketing, and Sale of Licensed Products and Licensed Services in quantities sufficient to meet the market demand.
 
-6.2 In addition to Licensee’s obligations under Paragraph 6.1, Licensee will accomplish the following milestones in Licensee’s activities under this Agreement: {{milestonesDescription}}.
+6.2 In addition to Licensee’s obligations under Paragraph 6.1, Licensee will accomplish the following milestones in Licensee’s activities under this Agreement: 
+
+With respect to a non-pegylated Licensed Product or Licensed Method covered by the Regents’ Patent Rights other than the Newly Added Patent Rights:
+
+ 	6.2a	Select preferred NELL-1-producing cell line for use in connection with a Licensed Product or Licensed Method on or before December 31, 2016;
+ 	 	 
+ 	6.2b	Initiate pre-clinical animal studies (e.g. toxicity) of a Licensed Product or Licensed Method on or before June 30, 2017;
+ 	 	 
+ 	6.2c	Initiate pre-clinical GLP study (as described in 21 CFR 58) of a Licensed Product or Licensed Method on or before June 30, 2018;
+ 	 	 
+ 	6.2d	Submit a Licensed Product or Licensed Method investigational device exemption (IDE) (or foreign equivalent) to the FDA (or foreign equivalent) on or before December 31, 2018;
+ 	 	 
+ 	6.2e	Initiate a Licensed Product or Licensed Method Pivotal Study on or before December 31, 2019;
+ 	 	 
+ 	6.2f	Submit a Licensed Product or Licensed Method PMA application (or foreign equivalent) on or before December 31, 2023;
+ 	 	 
+ 	6.2g	Secure a Licensed Product or Licensed Method FDA (or foreign equivalent) PMA approval (market approval) (or foreign equivalent) on or before December 31, 2024; and
+ 	 	 
+ 	6.2h	Achieve First Commercial Sale of a Licensed Product or Licensed Method on or before March 31, 2025.
+
+ 	With respect to a pegylated Licensed Product or Licensed Method covered by the Newly Added Patent Rights:
+ 
+ 	6.2i	With respect to a Licensed Product, complete a pre-clinically rhNELL-1 chemical modification versus drug delivery & route and frequency of administration no later than June 1, 2020.
+ 	 	 
+ 	6.2j	Enter into a contract with a Contract Manufacturing Organization (“CMO”) and completed an animal pilot study involving a Licensed Product to determine what clinical indication Licensee intends to pursue no later than June 1, 2021.
+ 	 	 
+ 	6.2k	Submit a Pre-IND (Investigational New Drug) package to the FDA with respect to a Licensed Product that contains Chemistry, Manufacturing and Controls (CMC), preclinical work, and a clinical development plan by June 1, 2022.
+ 	 	 
+ 	6.2l	Complete a pivotal animal study with a Licensed Product in sheep and/or non human primate by January 1, 2023.
+ 	 	 
+ 	6.2m	File an IND with the FDA with respect to a Licensed Product by December 31, 2023.
+
+       6.2n	Dose a first patient with a Licensed Product in a Phase I/IIa Clinical Trial by December 31, 2024.
+ 	 	 
+ 	6.2o	Dose a first patient with a Licensed Product in a Phase IIb Clinical Trial by December 31, 2025.
+ 	 	 
+ 	6.2p	Dose a first patient with a Licensed Product in a Phase III Clinical Trial by December 31, 2027.
+ 	 	 
+ 	6.2q	Obtain FDA approval has been obtained with respect to a Licensed Product by December 31, 2030.
+ 	 	 
+ 	6.2r	Achieve a First Commercial Sale for at least one Licensed Product has been achieved by December 31, 2031.
 
 6.3 If Licensee is unable to meet any of its diligence obligations set forth in Paragraphs 6.1 and 6.2, then The Regents will so notify Licensee of failure to perform. Licensee will have the right and
 option to extend the target date of any such diligence obligation for a period of six (6) months
@@ -190,9 +230,9 @@ been cured by the end of the sixty (60)-day period, then The Regents may, at its
 terminate the Agreement or reduce Licensee's exclusive license to a non-exclusive license by
 giving written notice to Licensee. These notices will be subject to Article 22 (Notices).
 
-7. PROGRESS AND ROYALTY REPORTS
+7.PROGRESS AND ROYALTY REPORTS
 
-7.1 For the six (6)-month period beginning {{reportDate}}, within sixty (60) days of each
+7.1 For the six (6)-month period beginning April 30, 2016, within sixty (60) days of each
 June 30 and December 31 following the end of such six (6)-month period, Licensee will submit to The Regents a semi-annual progress report covering Licensee's activities related to the
 development and testing of Licensed Products, Licensed Services, and Licensed Methods,
 including the obtaining of necessary governmental approvals, if any, for marketing in the United
@@ -215,18 +255,18 @@ royalty reports to The Regents, to be accompanied by the corresponding Earned Ro
 payment as required in Paragraph 5.2, within sixty (60) days after the quarters ending March 31,
 June 30, September 30, and December 31, of each year. Each such royalty report will include at
 least the following:
-(a) the volume of Licensed Products and Licensed Services Sold;
-(b) gross revenue from Sale of Licensed Products and Licensed Services;
-(c) Net Sales pursuant to Paragraph 1.7, and the calculation of Net Sales, including all
-deductions taken, so that The Regents can confirm the calculation;
-(d) total Earned Royalties due The Regents; and
-(e) names and addresses of Sublicensees for any new Sublicenses entered into during the
-reporting quarter.
+       (a) the volume of Licensed Products and Licensed Services Sold;
+       (b) gross revenue from Sale of Licensed Products and Licensed Services;
+       (c) Net Sales pursuant to Paragraph 1.7, and the calculation of Net Sales, including all
+       deductions taken, so that The Regents can confirm the calculation;
+       (d) total Earned Royalties due The Regents; and
+       (e) names and addresses of Sublicensees for any new Sublicenses entered into during the
+       reporting quarter.
 
 7.5 If no Sales of Licensed Products or Licensed Services have occurred during the report period, the
 royalty report will contain a statement to this effect.
 
-8. BOOKS AND RECORDS
+8.BOOKS AND RECORDS
 
 8.1 Licensee will keep full, true, and accurate books of accounts containing all particulars that may be necessary for the purpose of showing (a) the amount of Earned Royalties payable to The
 Regents, and (b) Licensee’s compliance with obligations under this Agreement. For five (5) years
@@ -242,7 +282,7 @@ borne by The Regents, provided that if an error in underpaid royalties to The Re
 than five percent (5%) of the total Earned Royalties due for any year is discovered, then the fees
 and expenses of these representatives in conducting such examination will be borne by Licensee.
 
-9. LIFE OF THE AGREEMENT
+9.LIFE OF THE AGREEMENT
 
 9.1 Unless otherwise terminated by operation of law or by acts of the Parties in accordance with the
 terms of this Agreement, this Agreement will be in effect from the Effective Date and will remain in
@@ -270,7 +310,7 @@ Article 29 Scope of Agreement
 payment due or owing at the time of such termination and will not relieve any obligations, owed
 by either Party to the other Party, established prior to termination.
 
-10. TERMINATION BY THE REGENTS
+10.TERMINATION BY THE REGENTS
 
 10.1 If Licensee should violate or fail to perform any term of this Agreement, then The Regents may
 give written notice of such default (“Notice of Default”) to Licensee. If Licensee should fail to
@@ -290,7 +330,7 @@ Licensee, or by a third party at the urging of Licensee.
 filing of a petition for relief under the United States Bankruptcy Code by or against Licensee as a
 debtor or alleged debtor.
 
-11. TERMINATION BY LICENSEE
+11.TERMINATION BY LICENSEE
 
 11.1 Licensee will have the right at any time to terminate this Agreement in whole or as to any portion of Patent Rights by giving notice in writing to The Regents. Such notice of termination will be subject to Article 22 (Notices) and such termination of this Agreement in whole or in part will be
 effective ninety (90) days after the effective date of such notice of termination.
@@ -300,7 +340,7 @@ payments made to The Regents hereunder prior to the time such termination become
 and such termination will not affect in any manner any rights of The Regents arising under this
 Agreement prior to such termination.
 
-12. DISPOSITION OF LICENSED PRODUCTS UPON TERMINATION
+12.DISPOSITION OF LICENSED PRODUCTS UPON TERMINATION
 
 12.1 Upon termination of this Agreement, for a period of one hundred and twenty (120) days after the
 date of termination, Licensee may complete the making of, and may Sell, any partially made
@@ -308,7 +348,7 @@ Licensed Products, and Licensee may continue the practice of Licensed Methods on
 extent necessary to do the foregoing; provided that all such Sales will be subject to the terms of
 this Agreement including, but not limited to, the payment of royalties at tthe rate and at the time provided herein and the rendering of reports thereon. 
 
-13. PATENT PROSECUTION AND MAINTENANCE 
+13.PATENT PROSECUTION AND MAINTENANCE 
 
 13.1 The Regents will prosecute and maintain the patent applications and patents under Patent 
 Rights, subject to Licensee’s reimbursement of The Regents’ out-of-pocket costs under Paragraph 13.3. All patent applications and patents under Patent Rights will be held in the name of The Regents. The Regents will have sole responsibility for retaining and instructing patent counsel. The Regents will promptly provide Licensee with copies of all official patent office correspondence, and Licensee agrees to keep this documentation confidential in accordance with Article 25 (Confidentiality). Licensee may comment upon such documentation, and The Regents will take such comments into account, provided that if Licensee has not commented upon such documentation in reasonable time for The Regents to sufficiently consider Licensee’s comments prior to the deadline for filing a response with the relevant government patent office, The Regents will be free to respond appropriately without consideration of Licensee's comments. 
@@ -321,15 +361,15 @@ and maintaining all patent applications and patents under Patent Rights (includi
 
 13.4 Licensee's obligation to pay all patent preparation, filing, prosecution, and maintenance costs for Patent Rights will continue for so long as this Agreement remains in effect, provided that Licensee may terminate Licensee’s obligations with respect to any given patent application or patent under Patent Rights in any designated country upon three (3) months’ written notice to The Regents. In the event of such notice to The Regents, The Regents will undertake to curtail applicable patent costs billable to Licensee. The Regents may continue prosecution and maintenance of such patent applications or patents at The Regents’ sole discretion and expense, provided that Licensee will have no further right or licenses thereunder. 
 
-14. MARKING 
+14.MARKING 
 
 14.1 Licensee will mark all Licensed Products made, used, offered for Sale, imported, or Sold under this Agreement, or their containers, in accordance with applicable patent marking laws. 
 
-15. USE OF NAMES AND TRADEMARKS 
+15.USE OF NAMES AND TRADEMARKS 
 
 15.1 Nothing contained in this Agreement will be construed as conferring upon either Party any right to use in advertising, publicity, or other promotional activities any name, trademark, trade name, or other designation of the other Party (including any contraction, abbreviation, or simulation of any of the foregoing). Unless required by law or consented to in writing by The Regents, Licensee will not use the name “The Regents of the University of California” or the name of any University of California campus in advertising, publicity, or other promotional activities. 
 
-16. LIMITED WARRANTIES 
+16.LIMITED WARRANTIES 
 
 16.1 The Regents warrants to Licensee that The Regents has the lawful right to grant this license.
 
@@ -343,7 +383,7 @@ CONSEQUENTIAL DAMAGES RESULTING FROM EXERCISE OF THIS LICENSE OR A SUBLICENSE, O
 (a) a warranty or representation by The Regents as to the patentability, validity, 
 enforceability, or scope of Patent Rights; (b) a warranty or representation that anything made, used, Sold, offered for Sale, or imported under any license granted in this Agreement is or will be free from infringement of patents of third parties; (c) an obligation to bring or prosecute actions or suits against third parties for patent infringement; (d) conferring by implication, estoppel, or otherwise any license or rights under any patent applications or patents of The Regents other than Patent Rights, regardless of whether such patent applications or patents are dominant or subordinate to Patent Rights; or (e) an obligation to furnish any know-how not provided in the patents and patent applications under Patent Rights. 
 
-17. PATENT INFRINGEMENT 
+17.PATENT INFRINGEMENT 
 
 17.1 In the event that Licensee learns of the substantial infringement of any Patent Rights, Licensee will promptly provide The Regents with notice and reasonable evidence of such infringement (“Infringement Notice”). During the time period and in a jurisdiction where Licensee has exclusive rights under this Agreement, neither Party will notify a third party, including the infringer, of the infringement without first obtaining consent of the other Party, which consent will not be unreasonably withheld. The Parties will use diligent efforts, in cooperation with each other, to terminate such infringement without litigation. 
 
@@ -358,7 +398,7 @@ recoveries recovered thereby will belong to such Party, provided that suits init
 17.5 Any agreement made by Licensee for the purposes of settling litigation initiated hereunder or 
 other related dispute will comply with the requirements of Article 3 (Sublicenses). In no event may Licensee admit liability or wrongdoing on behalf of The Regents without The Regents’ prior written consent. 
 
-18. INDEMNIFICATION 
+18.INDEMNIFICATION 
 
 18.1 Licensee will, and will require Sublicensees to, indemnify, hold harmless, and defend The 
 Regents and its officers, employees, and agents; sponsors of the research that led to the Invention; and the inventors of any patents and patent applications under Patent Rights and their employers; against any and all claims, suits, losses, damages, costs, fees, and expenses resulting from or arising out of exercise of this license or any Sublicense. This indemnification will include, but not be limited to, any product liability. 
@@ -367,8 +407,9 @@ Regents and its officers, employees, and agents; sponsors of the research that l
 performed hereunder and will obtain, keep in force, and maintain the following insurance: 
 (a) Commercial Form General Liability Insurance (contractual liability included) with limits as 
 follows: 
-Each Occurrence ................................................................................ ${{amount}} Products/Completed Operations Aggregate ........................................................ ${{amount}} 
-Personal and Advertising Injury ................................................................ ${{amount}} General Aggregate .............................................................................. ${{amount}} 
+
+Each Occurrence ............................................................................$5,000,000.00 Products/Completed Operations Aggregate ...................................................$10,000,000.00 
+Personal and Advertising Injury ............................................................$5,000,000.00 General Aggregate .........................................................................$10,000,000.00
 
 If the above insurance is written on a claims-made form, it will continue for three (3) years following termination or expiration of this Agreement. The insurance will have a retroactive date of placement prior to or coinciding with the Effective Date of this Agreement; and 
 
@@ -408,18 +449,19 @@ mail, or (c) deposited with a carrier service requiring signature by recipient, 
 follows:
 
 To The Regents: UC Davis InnovationAccess
-1850 Research Park Drive, Suite 100
-Davis, CA 95618-6153
-Attn.: Executive Director
-Ref: UC Case No. {{caseNumber}}
+								1850 Research Park Drive, Suite 100
+								Davis, CA 95618-6153
+				 Attn.: Executive Director
+				   Ref: UC Case No. 2015-573
 
-To Licensee: {{licensee}}
-             {{licenseeAddress}}
-Attn.: {{licensee}}
+To Licensee: BONE BIOLOGICS
+             2 Burlington Woods Drive, Suite 100, 
+             Burlington, Massachusetts, 01803.
+  Attention: Chief Executive Officer
 
 Either Party may change its address upon written notice to the other Party.
 
-23. PAYMENTS
+23.PAYMENTS
 
 23.1 Payments to The Regents will be made by check or bank wire transfer, to the following address:
 
@@ -428,23 +470,19 @@ Checks: The Regents of the University of California
         1111 Franklin Street, 5th Floor
         Oakland, CA 94607-5200
 Attention: Chief Financial Officer
-Referencing: UC Case No. {{caseNumber}}
+Referencing: UC Case No. 2015-573
 
 Bank wire (Licensee is responsible for all wire transfer fees):
-Bank of America
-1655 Grant Street
-Concord, CA 94520
-Beneficiary Name: Regents of the University of California
-Domestic Wire ABA: 026009593
-Foreign Wire SWIFT: BOFAUS3N
-Referencing: UC Case No. {{caseNumber}}
+				Bank of America
+				1655 Grant Street
+				Concord, CA 94520
+				Beneficiary Name: Regents of the University of California
+				Domestic Wire ABA: 026009593
+				Foreign Wire SWIFT: BOFAUS3N
+				Referencing: UC Case No. 2015-573
 
 23.2 If monies owed to The Regents under this Agreement are not received by The Regents when
-due, Licensee will pay to The Regents interest charges at a rate of ten percent (10%) per annum.
-Such interest will be calculated from the date payment was due until actually received by The
-Regents. Such accrual of interest will be in addition to, and not in lieu of, enforcement of any
-other rights of The Regents related to such late payment. Acceptance of any late payment will
-not constitute a waiver under Article 24 (Waiver).
+due, Licensee will pay to The Regents interest charges at a rate of ten percent (10%) per annum. Such interest will be calculated from the date payment was due until actually received by The Regents. Such accrual of interest will be in addition to, and not in lieu of, enforcement of any other rights of The Regents related to such late payment. Acceptance of any late payment will not constitute a waiver under Article 24 (Waiver).
 
 24. WAIVER
 
@@ -485,22 +523,22 @@ State of California, excluding any choice-of-law rules that would direct the app
 without the written consent of the other Party. 
 
 28.2 This Agreement incorporates the entire agreement between the Parties with respect to the 
-subject matter hereof and supersedes all previous communications, representations, or understandings, whether oral or written, between the Parties relating to the subject matter hereof. The Confidentiality Agreement specified in the Recitals above, effective {{effectiveDate}}, is hereby superseded. 
+subject matter hereof and supersedes all previous communications, representations, or understandings, whether oral or written, between the Parties relating to the subject matter hereof. The Confidentiality Agreement specified in the Recitals above, effective March 15, 2006, is hereby superseded. 
 
 28.3 This Agreement may be modified only by written amendment duly executed by the Parties. 
 In witness whereof, the Parties have executed this Agreement in duplicate originals by their respective authorized officers or representatives on the respective dates below. 
 
 LICENSEE NAME
-By: {{licenseeESig}}
-       Signature
-Name: {{licensee}}
-Title: {{licenseeTitle}}
-Date: {{effectiveDate}}
+By: ___________________
+    Signature
+Name: Steve R. La Neve
+Title: Chief Executive Officer
+Date: March 25, 2019
 
 THE REGENTS OF THE UNIVERSITY OF CALIFORNIA 
-By: {{licensorESig}}
-       Signature
+By: ___________________
+    Signature
 Name: David R. McGee 
 Title: Executive Director UC Davis InnovationAccess 
-Date: {{effectiveDate}}
+Date: _______________
 
