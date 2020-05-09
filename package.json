@@ -28,6 +28,7 @@
     "@accordproject/cicero-test": "0.20.10",
     "@accordproject/concerto-core": "0.82.7",
     "@accordproject/concerto-tools": "0.82.7",
+    "@accordproject/ergo-compiler": "^0.20.10",
     "@accordproject/markdown-cicero": "0.10.4",
     "@accordproject/markdown-html": "0.10.4",
     "adm-zip": "^0.4.11",

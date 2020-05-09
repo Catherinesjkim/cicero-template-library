@@ -14,9 +14,38 @@
 
 namespace org.accordproject.ucDavisStandardLicensingK
 
-contract MyLogic over MyContract {
-  // Simple Clause
-  clause helloworld(request : MyRequest) : MyResponse {
-    return MyResponse{ output: "Hello " ++ contract.name ++ " " ++ request.input }
+import org.accordproject.cicero.runtime.*
+import org.accordproject.time.*
+
+contract UCDavisStandardLicense over UCDavisStandardLicensingK {
+  // Clause for royalty payments
+  clause paymentClause(request : PaymentRequest) : PayOut emits PaymentObligation {
+    emit PaymentObligation{
+        contract: contract,
+        promisor: some(contract.licensee),
+        promisee: some(contract.licensor),
+        deadline: none,
+        amount: clause.amount, 
+        description: contract.licesnee.partyId ++ " should pay contract amount to " ++ contract.licensor.partyId
+      };
+    return PayOut{ amount: clause.amount }
+  }
+
+  clause execute(request : PaymentRequest) : PayOut {
+    let royaltiesAmount = request.netSaleRevenue * contract.roayltyRate / 100.00;
+    let sublicensingAmount = request.sublicensingRevenue * contract.sublicensingRoyaltyRate / 100.00;
+    let totalAmount = royaltiesAmount + sublicensingAmount;
+
+    match request.permissionGrantedBy
+    with let? grantedBy then
+      return PayOut{
+        totalAmount: totalAmount,
+        dueBy: addDuration(grantedBy,contract.paymentPeriodWithPermission)
+      }
+    else
+      return PayOut{
+        totalAmount: totalAmount,
+        dueBy: addDuration(endOf(now(), quarters), contract.paymentPeriod)
+      }
   }
 }

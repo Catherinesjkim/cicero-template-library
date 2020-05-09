@@ -1,0 +1,8 @@
+Seller: Dan 
+Buyer: Steve
+Force Majeure: True
+Penalty Duration: Every 2 days
+Penalty Percentage: 10.5%
+Cap Percentage: 55%
+Duration of termination: 15 days
+
