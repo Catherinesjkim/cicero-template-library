@@ -1,5 +1,3 @@
-## replace variables with fictitional info
-
 This exclusive license agreement (“Agreement”) is effective March 15, 2006 (“Effective Date”), by and between (a) The Regents of the University of California (“The Regents”), a California corporation, having its statewide administrative offices at 1111 Franklin Street, 12th Floor, Oakland, California 94607-5200, acting through UC Davis InnovationAccess, with an address at 1850 Research Park Drive, Suite 100, Davis, California 95618-6153 and (b) BONE BIOLOGICS (“Licensee”), a Delaware corporation having a principal place of business at 2 Burlington Woods Drive, Suite 100, Burlington, Massachusetts, 01803. The Regents and Licensee will be referred to herein, on occasion, individually as “Party” or collectively as “Parties”.
 
 RECITALS
