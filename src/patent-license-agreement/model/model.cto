@@ -1,0 +1,54 @@
+namespace org.accordproject.patentlicenseagreement
+
+import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
+import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+
+import org.accordproject.money.MonetaryAmount from https://models.accordproject.org/money.cto
+import org.accordproject.organization.Organization from https://models.accordproject.org/organization.cto
+
+/* The template model  */
+asset PatentLicenseContract extends AccordContract {
+  /* the effective date */
+  o DateTime effectiveDate
+
+  /* licensee */
+  o AccordParty licensee
+  o String licenseeState
+  o String licenseeEntityType
+  o String licenseeAddress
+
+  /* licensor */
+  o AccordParty licensor
+  o String licensorState
+  o String licensorEntityType
+  o String licensorAddress
+
+  /* territory where license is granted */
+  o String territory
+
+  /* descriptions */
+  o String milestonesDescription
+  o String deviceDescription
+
+  /* payment */
+  o PaymentClause paymentClause
+  o Duration paymentPeriod
+}
+
+asset PaymentClause extends AccordClause {
+	o MonetaryAmount amount
+	o String paymentProcedure
+}
+
+/* Requesting a payment */
+transaction PaymentRequest extends Request {
+  o Double netSaleRevenue
+  o Double sublicensingRevenue
+  o DateTime permissionGrantedBy optional
+}
+
+/* PayOut response */
+transaction PayOut extends Response {
+  o MonetaryAmount amount
+  o Double totalAmount
+}

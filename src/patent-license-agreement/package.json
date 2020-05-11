@@ -1,0 +1,19 @@
+{
+    "name": "patent-license-agreement",
+    "version": "0.0.0",
+    "description": "Name of the person to greet: \"Dan\".\nThank you!",
+    "author": "catherine-kim",
+    "accordproject": {
+        "template": "contract",
+        "cicero": "^0.20.10",
+        "runtime": "ergo"
+    },
+    "devDependencies": {
+        "cucumber": "^5.1.0",
+        "chai": "4.2.0",
+        "@accordproject/cicero-cli": "^0.20.10"
+    },
+    "scripts": {
+        "test": "cucumber-js test -r .cucumber.js"
+    }
+}
