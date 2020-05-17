@@ -1,12 +1,12 @@
 PATENT LICENSE AGREEMENT
 
-This Patent License Agreement (the "Agreement") is made and effective the {{effectiveDate}}  (the "Effective Date").
+This Patent License Agreement (the "Agreement") is made and effective the {{effectiveDate}} (the "Effective Date").
 
 Between: {{licensor}} (the "Licensor"), a {{licensorEntityType}} organized and existing under the law for the {{licensorState}}, with its head office located at:
 
 {{licensorAddress}}
 
-AND: {{licensee}} (the "Licensee"), an individual with this main address located at OR a {{licenseeEntityType}} organized and existsing under the laws of the {{licenseeState}}, with its head office located at {{licenseeAddress}}.
+AND: {{licensee}} (the "Licensee"), an individual with this main address located at OR a {{licenseeEntityType}} organized and existing under the laws of the {{licenseeState}}, with its head office located at {{licenseeAddress}}.
 
 ## RECITALS
 
