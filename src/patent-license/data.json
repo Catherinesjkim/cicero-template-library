@@ -1,0 +1,33 @@
+{
+  "$class": "org.accordproject.copyrightlicense.CopyrightLicenseContract",
+  "contractId": "a57d78ba-733d-4dc6-a67e-3976d47d75ae",
+  "effectiveDate": "2018-01-01T00:00:00.000-07:00",
+  "licensee": {
+    "$class": "org.accordproject.cicero.contract.AccordParty",
+    "partyId": "Licensee"
+  },
+  "licenseeState": "State",
+  "licenseeEntityType": "Corporation",
+  "licenseeAddress": "1 Broadway",
+  "licensor": {
+    "$class": "org.accordproject.cicero.contract.AccordParty",
+    "partyId": "UC Davis InnovationAccess"
+  },
+  "licensorState": "California",
+  "licensorEntityType": "corporation",
+  "licensorAddress": "1850 Research Park Drive, Suite 100, Davis, California 95618-6153",
+  "territory": "United States",
+  "purposeDescription": "calculating Net Sales, a Sale by Licensee to a Sublicensee for end use by the Sublicensee will be treated as a Sale at Licensee's list price",
+  "workDescription": "bio-medical devices",
+  "paymentClause": {
+    "$class": "org.accordproject.copyrightlicense.PaymentClause",
+    "clauseId": "13552943-2833-40eb-969f-afa20b5e1a3e",
+    "amountText": "five thousand US Dollars",
+    "amount": {
+      "$class": "org.accordproject.money.MonetaryAmount",
+      "doubleValue": 5000,
+      "currencyCode": "USD"
+    },
+    "paymentProcedure": "Payments to The Regents will be made by check or bank wire transfer via BoA, Domestic Wire ABA: 026009593, Foreign Wire SWIFT: BOFAUS3N"
+  }
+}
